@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>タイトル.kml</name>
+	<StyleMap id="msn_タイトル2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_タイトル2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_タイトル2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_タイトル2">
+		<IconStyle>
+			<scale>8.03636</scale>
+			<Icon>
+				<href>C:/Users/megumi/Downloads/日野市データ/タイトル2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_タイトル2">
+		<IconStyle>
+			<scale>6.8</scale>
+			<Icon>
+				<href>C:/Users/megumi/Downloads/日野市データ/タイトル2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>タイトル</name>
+		<LookAt>
+			<longitude>139.6211154490434</longitude>
+			<latitude>35.62002166348218</latitude>
+			<altitude>0</altitude>
+			<heading>11.10758925349287</heading>
+			<tilt>8.621212844149124</tilt>
+			<range>109585.8159612202</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_タイトル2</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>139.3940061685396,35.6610863004651,25131</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

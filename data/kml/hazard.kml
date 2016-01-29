@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="ハザード7">
+	<name>ハザード7</name>
+	<color>c7ffffff</color>
+	<Icon>
+		<href>https://lh3.googleusercontent.com/-RiBm679sVAM/VqsFfnvLZNI/AAAAAAAABYU/IcIE1R24ZhI/s3200-Ic42/%2525E3%252583%25258F%2525E3%252582%2525B6%2525E3%252583%2525BC%2525E3%252583%252589%2525E3%252583%25259E%2525E3%252583%252583%2525E3%252583%2525977.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>35.69411996656523</north>
+		<south>35.63636699058225</south>
+		<east>139.4440835046042</east>
+		<west>139.3540492231823</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
